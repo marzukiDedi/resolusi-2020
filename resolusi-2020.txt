@@ -4,3 +4,4 @@ planning untuk 2020
 - css,css3
 - javascript
 - vue.js
+- ajax
