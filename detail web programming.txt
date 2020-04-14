@@ -4,5 +4,6 @@ web programming
   * jQuery
   * Ajax
   * vue
+  * Angular
 - php
   * laravel
