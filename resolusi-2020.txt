@@ -1,7 +1,9 @@
 planning untuk 2020
 - belajar web programming
-- html,html5
-- css,css3
+- html
+- html5
+- css
+- css3
 - javascript
 - vue.js
 - ajax
